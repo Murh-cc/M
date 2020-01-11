@@ -1,1 +1,24 @@
-# aaa
+{
+    "name": "mr-323",
+    "summary": "测试",
+    "list": [
+{
+        "name": "落霞小说",
+        "url": "https://www.luoxia.com",
+        "category": 0,
+        "rank": 6,
+        "auth": false,
+        "version": 110
+},{
+"name": "SF轻小说(移动端)",
+"url": "https://m.sfacg.com",
+"category": 2,
+"rank": 3,
+"auth": falst,
+"version": 100
+},
+
+
+
+
+]}
