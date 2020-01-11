@@ -1,16 +1,125 @@
 {
-    "name": "mr-323",
-    "summary": "测试",
-    "list": [
-{
+    "name": "Guimi",
+    "summary": "Provided links and based on github.com/gitee.com",
+    "list": [{
         "name": "落霞小说",
         "url": "https://www.luoxia.com",
         "category": 0,
         "rank": 6,
         "auth": false,
         "version": 110
+    }, {
+        "name": "鉛筆小说",
+        "url": "https://www.x23qb.com",
+        "category": 3,
+        "rank": 8,
+        "auth": false,
+        "version": 105
+    }, {
+        "name": "麦田小说",
+        "url": "http://www.mtxs.me",
+        "category": 1,
+        "rank": 8,
+        "auth": false,
+        "version": 103
+    }, {
+        "name": "小说柜",
+        "url": "https://xiaoshuogui.com",
+        "category": 3,
+        "rank": 8,
+        "auth": false,
+        "version": 103
+    }, {
+        "name": "百合小说网",
+        "url": "https://www.baihexs.com",
+        "category": 1,
+        "rank": 7,
+        "auth": false,
+        "version": 100
+    },{
+        "name": "武侠世界",
+        "url": "https://www.wuxiaworld.com",
+        "category": 1,
+        "rank": 1,
+        "auth": false,
+        "version": 101
+    }, {
+        "name": "神凑轻小说",
+        "url": "http://www.shencou.com",
+        "category": 2,
+        "rank": 3,
+        "auth": false,
+        "version": 100
+    }, {
+        "name": "全本言情小说",
+        "url": "http://www.qbyq.net",
+        "category": 1,
+        "rank": 9,
+        "auth": false,
+        "version": 100
+    }, {
+        "name": "军事小说网",
+        "url": "http://jsnovel.com",
+        "category": 1,
+        "rank": 9,
+        "auth": false,
+        "version": 101
+    }, 
+    {
+        "name": "用药助手",
+        "url": "http://drugs.dxy.cn",
+        "category": 4,
+        "rank": 0,
+        "auth": false,
+        "version": 100
+    }, {
+        "name": "Linux-Command",
+        "url": "https://github.com/jaywcjlove/linux-command",
+        "category": 4,
+        "rank": 0,
+        "auth": false,
+        "version": 100
+    }, {
+        "name": "小鸡词典",
+        "url": "https://jikipedia.com",
+        "category": 4,
+        "rank": 0,
+        "auth": false,
+        "version": 100
+    }, {
+        "name": "成语接龙",
+        "url": "https://chengyujielong.51240.com",
+        "category": 4,
+        "rank": 0,
+        "auth": false,
+        "version": 100
+    }, {
+        "name": "歇后语-语底",
+        "url": "https://xiehouyu.51240.com",
+        "category": 4,
+        "rank": 0,
+        "auth": false,
+        "version": 100
+    }, {
+        "name": "下书网",
+        "url": "https://www.shutxt.com",
+        "category": 3,
+        "rank": 14,
+        "auth": false,
+        "version": 100
+    }, {
+        "name": "叮当小说",
+        "url": "https://www.guxs.net",
+        "category": 1,
+        "rank": 2,
+        "auth": false,
+        "version": 100
+    }, {
+        "name": "轮回小说",
+        "url": "https://www.9xs.org",
+        "category": 1,
+        "rank": 3,
+        "auth": false,
+        "version": 100
+    }]
 }
-
-
-
-]}
