@@ -1,14 +1,8 @@
 {
     "name": "Guimi",
     "summary": "Provided links and based on github.com/gitee.com",
-    "list": [{
-        "name": "落霞小说",
-        "url": "https://www.luoxia.com",
-        "category": 0,
-        "rank": 6,
-        "auth": false,
-        "version": 110
-    }, {
+    "list": [
+    {
         "name": "鉛筆小说",
         "url": "https://www.x23qb.com",
         "category": 3,
@@ -16,12 +10,12 @@
         "auth": false,
         "version": 105
     }, {
-        "name": "麦田小说",
-        "url": "http://www.mtxs.me",
-        "category": 1,
-        "rank": 8,
+        "name": "SF轻小说(移动端)",
+        "url": "https://m.sfacg.com",
+        "category": 2,
+        "rank": 0,
         "auth": false,
-        "version": 103
+        "version": 100
     }, {
         "name": "小说柜",
         "url": "https://xiaoshuogui.com",
